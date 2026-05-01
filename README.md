@@ -76,7 +76,7 @@ npm run dev
 
 ## 🌍 Live Demo
 
-https://devpitch-pro.vercel.app
+https://devpitch-rho.vercel.app/
 
 ---
 
