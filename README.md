@@ -1,7 +1,5 @@
 # DevPitch Pro
 
-Turn rough project notes into clear, recruiter-ready stories.
-
 DevPitch Pro helps developers communicate their work better — not by rewriting everything, but by structuring what already exists. It transforms messy ideas into strong, concise narratives that work across CVs, LinkedIn, and interviews.
 
 ---
